@@ -1,3 +1,4 @@
+
 # graphics-editor
 ### Python приложение с графическим интерфейсом, в котором реализована работа с изображениями. Данное приложение включает в себя ниже перечисленный функционал:
 * Просмотр изображений формата PNM
@@ -11,4 +12,4 @@
 * Алгоритмы фильтрации изображения (Пороговая фильтрация, Пороговая фильтрация методом Оцу, Медианный фильтра, Фильтр Гаусса, Линейный усредняющий фильтр - box blur, unsharp masking через размытие Гаусса с заданным параметром, Contrast Adaptive Sharpening с better diagonals, фильтр Собеля, Canny Edge Detector)
 
 ### Пример работы графического редактора - открытие изображение и применение к нему алгоритма фильтрации (Canny Edge Detector):
-![demo-graphics-editor](https://github.com/DKurepin/graphics-editor/assets/91544570/bdb333b0-2abc-4a5d-9f39-5539979eb5fb)
+![demo-graphics-editor-ezgif com-video-to-gif-converter](https://github.com/DKurepin/graphics-editor/assets/91544570/e2fa83b9-79d8-4090-9fd5-1505b07a5bcc)
