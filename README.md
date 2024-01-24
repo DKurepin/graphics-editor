@@ -9,7 +9,7 @@
 * Дизеринг изображений (Ordered 8x8, Random, Floyd-Steinberg, Atkinson)
 * Гистограмма изображения (для автоматической коррекции интенсивности)
 * Масштабирование изображений (Метод ближайшего соседа, биленейное, Lanczos3, BC-сплайны)
-* Алгоритмы фильтрации изображения (Пороговая фильтрация, Пороговая фильтрация методом Оцу, Медианный фильтра, Фильтр Гаусса, Линейный усредняющий фильтр - box blur, unsharp masking через размытие Гаусса с заданным параметром, Contrast Adaptive Sharpening с better diagonals, фильтр Собеля, Canny Edge Detector)
+* Алгоритмы фильтрации изображения (Пороговая фильтрация, Пороговая фильтрация методом Оцу, Медианный фильтр, Фильтр Гаусса, Линейный усредняющий фильтр - box blur, unsharp masking через размытие Гаусса с заданным параметром, Contrast Adaptive Sharpening с better diagonals, фильтр Собеля, Canny Edge Detector)
 
 ### Пример работы графического редактора - открытие изображение и применение к нему алгоритма фильтрации (Canny Edge Detector):
 ![demo-graphics-editor-ezgif com-video-to-gif-converter](https://github.com/DKurepin/graphics-editor/assets/91544570/e2fa83b9-79d8-4090-9fd5-1505b07a5bcc)
